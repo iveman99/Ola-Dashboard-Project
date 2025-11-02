@@ -32,7 +32,7 @@ This project demonstrates how **data analytics transforms raw data into actionab
 ---
 ## 📈 Key Performance Indicators (KPIs)
 
-**Duration:** 1 June 2024 – 30 June 2024
+**Duration:** 1 June 2024 – 10 June 2024
 
 | **KPI** | **Value** |
 |:----------------------------------|:----------------:|
