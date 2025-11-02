@@ -24,18 +24,15 @@ This project demonstrates how **data analytics transforms raw data into actionab
 ---
 
 ## 📈 **Key Performance Indicators (KPIs)**
-
-| KPI                          |    Value   |
-| :--------------------------- | :--------: |
-| **Total Bookings**           |    29.4K   |
-| **Total Booking Value**      |    $439K   |
-| **Average Booking Value**    |    $14.9   |
-| **Total Trip Distance**      | 100K miles |
-| **Average Trip Distance**    |   3 miles  |
-| **Average Trip Time**        | 16 minutes |
-| **Most Used Payment Method** |   Ola Pay  |
-| **Top Vehicle Type**         |    Ola X   |
-
+KPI	Value
+Total Bookings	29,369 (approx total of all vehicles)
+Total Booking Value	$438,976
+Average Booking Value	$15
+Total Trip Distance	100,311 miles
+Average Trip Distance	3 miles
+Average Trip Time	16 minutes
+Most Used Payment Method	Ola Pay (65%)
+Top Vehicle Type	Ola X (11,388 bookings)
 ---
 
 ## 🧾 **Dataset Used**
