@@ -107,5 +107,5 @@ It supports **in-depth data validation** and **trip analysis**.
 ## 🎥 **Project Video**
 
 📽 **Watch the full explanation video:**
-*(Add your uploaded video link here once available.)*
+https://drive.google.com/file/d/1cxhvnNtJsb6DTwAtlNKRdTDLsCZ6_NA6/view?usp=drive_link
 
