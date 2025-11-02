@@ -1,5 +1,13 @@
+# 🚗 Ola Dashboard (Power BI Project)
 
-# 🚗 **Ola Dashboard Project – Power BI Data Visualization**
+![Made with Power BI](https://img.shields.io/badge/Made%20with-Power%20BI-yellow?logo=powerbi&logoColor=white)
+![Dataset Ola Ride Data](https://img.shields.io/badge/Dataset-Ola%20Ride%20Data-blue)
+![Status Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License MIT](https://img.shields.io/badge/License-MIT-lightgrey)
+
+An interactive and dynamic **Ola Dashboard** built in Power BI to analyze ride performance, customer behavior, and operational trends across various metrics — including bookings, revenue, trip distance, payment modes, and vehicle types.
+
+This project demonstrates an **end-to-end Power BI workflow**: importing, cleaning, transforming, and visualizing real-world ride data using interactive visuals, KPIs, filters, and time-based insights.
 
 ---
 
