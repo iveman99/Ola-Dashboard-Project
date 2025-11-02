@@ -32,6 +32,8 @@ This project demonstrates how **data analytics transforms raw data into actionab
 ---
 ## 📈 Key Performance Indicators (KPIs)
 
+**Duration:** 1 June 2024 – 30 June 2024
+
 | **KPI** | **Value** |
 |:----------------------------------|:----------------:|
 | **Total Bookings** | **29,409** |
@@ -47,7 +49,7 @@ This project demonstrates how **data analytics transforms raw data into actionab
 
 * **Name:** Ola Ride Data *(Sample Dataset)*
 * **Format:** Excel / CSV
-* **Duration:** 1 June 2024 – 10 June 2024
+* **Duration:** 1 June 2024 – 30 June 2024
 * **Key Columns:** Trip ID, Pickup Date & Time, Vehicle, Payment Type, Trip Distance, Booking Value, Pickup & Drop Locations, Passengers.
 
 > ⚙️ *Dataset used purely for educational and analytical purposes.*
