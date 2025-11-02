@@ -30,18 +30,18 @@ This project demonstrates how **data analytics transforms raw data into actionab
 6. 🌗 How do **day and night trips** compare?
 
 ---
+## 📈 Key Performance Indicators (KPIs)
 
-## 📈 **Key Performance Indicators (KPIs)**
-KPI	Value
-Total Bookings	29,369 (approx total of all vehicles)
-Total Booking Value	$438,976
-Average Booking Value	$15
-Total Trip Distance	100,311 miles
-Average Trip Distance	3 miles
-Average Trip Time	16 minutes
-Most Used Payment Method	Ola Pay (65%)
-Top Vehicle Type	Ola X (11,388 bookings)
----
+| **KPI** | **Value** |
+|:----------------------------------|:----------------:|
+| **Total Bookings** | **29,409** |
+| **Total Booking Value** | **$438,976** |
+| **Average Booking Value** | **$15** |
+| **Total Trip Distance** | **100,311 miles** |
+| **Average Trip Distance** | **3 miles** |
+| **Average Trip Time** | **16 minutes** |
+| **Most Used Payment Method** | **Ola Pay (65%)** |
+| **Top Vehicle Type** | **Ola X (11,388 bookings)** |
 
 ## 🧾 **Dataset Used**
 
